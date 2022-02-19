@@ -1,0 +1,18 @@
+Zajęcie 1
+
+Tworzenie katalogu - mkdir
+Wejść - cd aleks
+Pokazanie treści katalogu - dir 
+Wyjść - cd .. 
+Przeskoczenie kilku poziomów - cd katalog\katalog 
+Przeskoczenie kilku poziomów do tyłu - cd ..\..
+Kopiować pliki albo katalogu - copy 
+Przenieść - move co\dokąd 
+Kiedy idzieś w dół to wszystko wymieniasz, a kiedy idziesz w góre to ..\..
+CLI - Command line interpreter/wiersz poleceń 
+
+Zajęcie 2 
+
+Clone operation - pierwszy pull operation 
+Pull operation - operacja pozwalająca na sciąganie plików z repozytorium (kopia na chmurze) 
+gitgit 
