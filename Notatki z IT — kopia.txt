@@ -16,3 +16,5 @@ Zajęcie 2
 Clone operation - pierwszy pull operation 
 Pull operation - operacja pozwalająca na sciąganie plików z repozytorium (kopia na chmurze) 
 gitgit 
+Commit - przerzuca zmiany z kopii roboczej do kopii lokalnej
+Revert - cofa commit
